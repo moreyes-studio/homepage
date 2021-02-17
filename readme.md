@@ -2,7 +2,7 @@
 
 ### "Inspiration Driven Development"
 
-I am senior front-end developer and designer who loves to buid creative tools.
+I am senior front-end developer and designer who loves to build creative tools.
 
 ## Tech stack
 
